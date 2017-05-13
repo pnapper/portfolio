@@ -24,8 +24,14 @@ p {
 
 .col-md-4 {
   float: left;
+  padding-right: 50px;
+  margin-left: 0px;
 }
 
 .col-md-8 {
   float: right;
+}
+
+.well p {
+  font-size: 18px;
 }
