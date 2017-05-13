@@ -8,6 +8,7 @@ img {
   background-color: black;
 
 }
+
 .title li {
   font-size: 20px;
 }
@@ -15,7 +16,16 @@ img {
 ol {
   font-size: 20px;
 }
+
 p {
   font-weight: bold;
   font-family: sans-serif;
+}
+
+.col-md-4 {
+  float: left;
+}
+
+.col-md-8 {
+  float: right;
 }
