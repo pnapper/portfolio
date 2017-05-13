@@ -13,6 +13,12 @@ img {
   font-size: 20px;
 }
 
+h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 ol {
   font-size: 20px;
 }
@@ -30,6 +36,10 @@ p {
 
 .col-md-8 {
   float: right;
+}
+
+.well {
+  background-color: white;
 }
 
 .well p {
